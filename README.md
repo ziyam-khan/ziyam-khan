@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <img src="light.svg" alt="ziyam@github, as fastfetch would print it: an ASCII portrait beside my OS, university, role, research, papers, languages, projects, GitHub numbers and contacts.">
+  <img src="light.svg" alt="ziyam@github, as neofetch would print it: my ASCII portrait beside my name, role, university, uptime teaching, OS, languages, editor, research, papers, projects, contacts and GitHub numbers.">
 </picture>
 
 <p>

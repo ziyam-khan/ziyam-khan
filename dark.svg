@@ -1,286 +1,294 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="867" height="512" viewBox="0 0 867 512" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13">
-<rect x=".5" y=".5" width="866" height="511" rx="10" fill="#000b1e" stroke="#133e7c"/>
-<text fill="#0abdc6" font-size="13" xml:space="preserve">
-<tspan x="156.6" y="54" fill-opacity="0.6">====-</tspan>
-<tspan x="195.6" y="54" fill-opacity="0.4">::.:::::.:::</tspan>
-<tspan x="289.2" y="54" fill-opacity="0.6">-</tspan>
-<tspan x="125.4" y="70" fill-opacity="0.4">:::.::::........:...::::</tspan>
-<tspan x="312.6" y="70" fill-opacity="0.6">-</tspan>
-<tspan x="109.8" y="86" fill-opacity="0.6">=-</tspan>
-<tspan x="125.4" y="86" fill-opacity="0.4">::::.:................:::.:.</tspan>
-<tspan x="343.8" y="86" fill-opacity="0.6">-</tspan>
-<tspan x="102.0" y="102" fill-opacity="0.6">-</tspan>
-<tspan x="109.8" y="102" fill-opacity="0.4">..:.::::...::...................</tspan>
-<tspan x="359.4" y="102" fill-opacity="0.6">-</tspan>
-<tspan x="94.2" y="118" fill-opacity="0.6">-</tspan>
-<tspan x="102.0" y="118" fill-opacity="0.4">:..::....::::::::..:::::..........:</tspan>
-<tspan x="86.4" y="134" fill-opacity="0.4">:</tspan>
-<tspan x="94.2" y="134" fill-opacity="0.6">-</tspan>
-<tspan x="102.0" y="134" fill-opacity="0.4">......:</tspan>
-<tspan x="156.6" y="134" fill-opacity="0.6">--------</tspan>
-<tspan x="219.0" y="134" fill-opacity="0.4">:</tspan>
-<tspan x="226.8" y="134" fill-opacity="0.6">--==</tspan>
-<tspan x="258.0" y="134" fill-opacity="0.85">+++++</tspan>
-<tspan x="297.0" y="134" fill-opacity="0.6">=-</tspan>
-<tspan x="312.6" y="134" fill-opacity="0.4">:........</tspan>
-<tspan x="86.4" y="150" fill-opacity="0.4">:</tspan>
-<tspan x="94.2" y="150" fill-opacity="0.6">-</tspan>
-<tspan x="102.0" y="150" fill-opacity="0.4">....:</tspan>
-<tspan x="141.0" y="150" fill-opacity="0.85">+*</tspan>
-<tspan x="156.6" y="150" fill-opacity="0.6">=</tspan>
-<tspan x="164.4" y="150" fill-opacity="0.85">**+++++**********++</tspan>
-<tspan x="312.6" y="150" fill-opacity="0.6">==</tspan>
-<tspan x="328.2" y="150" fill-opacity="0.4">:.......</tspan>
-<tspan x="86.4" y="166" fill-opacity="0.6">-</tspan>
-<tspan x="94.2" y="166" fill-opacity="0.4">:..:</tspan>
-<tspan x="125.4" y="166" fill-opacity="0.85">**</tspan>
-<tspan x="141.0" y="166" fill-opacity="1">%################</tspan>
-<tspan x="273.6" y="166" fill-opacity="0.85">***++++</tspan>
-<tspan x="328.2" y="166" fill-opacity="0.6">=-</tspan>
-<tspan x="343.8" y="166" fill-opacity="0.4">......</tspan>
-<tspan x="86.4" y="182" fill-opacity="0.4">::.:</tspan>
-<tspan x="117.6" y="182" fill-opacity="1">%%%%%%##############</tspan>
-<tspan x="273.6" y="182" fill-opacity="0.85">***++++</tspan>
-<tspan x="328.2" y="182" fill-opacity="0.6">==-</tspan>
-<tspan x="351.6" y="182" fill-opacity="0.4">:...:</tspan>
-<tspan x="86.4" y="198" fill-opacity="0.6">-</tspan>
-<tspan x="94.2" y="198" fill-opacity="0.4">..</tspan>
-<tspan x="109.8" y="198" fill-opacity="1">%%%%%%%%##############</tspan>
-<tspan x="281.4" y="198" fill-opacity="0.85">**++++</tspan>
-<tspan x="328.2" y="198" fill-opacity="0.6">===--</tspan>
-<tspan x="367.2" y="198" fill-opacity="0.4">..</tspan>
-<tspan x="382.8" y="198" fill-opacity="0.6">-</tspan>
-<tspan x="86.4" y="214" fill-opacity="0.6">-</tspan>
-<tspan x="94.2" y="214" fill-opacity="0.4">.</tspan>
-<tspan x="102.0" y="214" fill-opacity="0.85">+</tspan>
-<tspan x="109.8" y="214" fill-opacity="1">%%%%%%%%%%######%%####</tspan>
-<tspan x="281.4" y="214" fill-opacity="0.85">***+++</tspan>
-<tspan x="328.2" y="214" fill-opacity="0.6">===--</tspan>
-<tspan x="367.2" y="214" fill-opacity="0.4">..</tspan>
-<tspan x="94.2" y="230" fill-opacity="0.4">.</tspan>
-<tspan x="102.0" y="230" fill-opacity="0.85">+</tspan>
-<tspan x="109.8" y="230" fill-opacity="1">#%%%#%%%%%#######</tspan>
-<tspan x="242.4" y="230" fill-opacity="0.85">****+</tspan>
-<tspan x="281.4" y="230" fill-opacity="0.6">==-----===-</tspan>
-<tspan x="367.2" y="230" fill-opacity="0.4">..</tspan>
-<tspan x="94.2" y="246" fill-opacity="0.4">:</tspan>
-<tspan x="102.0" y="246" fill-opacity="0.85">+</tspan>
-<tspan x="109.8" y="246" fill-opacity="1">%##</tspan>
-<tspan x="133.2" y="246" fill-opacity="0.6">=-----===</tspan>
-<tspan x="203.4" y="246" fill-opacity="0.85">+**++</tspan>
-<tspan x="242.4" y="246" fill-opacity="0.6">=-</tspan>
-<tspan x="258.0" y="246" fill-opacity="0.4">...........</tspan>
-<tspan x="343.8" y="246" fill-opacity="0.6">-=</tspan>
-<tspan x="359.4" y="246" fill-opacity="0.85">+</tspan>
-<tspan x="367.2" y="246" fill-opacity="0.4">..</tspan>
-<tspan x="94.2" y="262" fill-opacity="0.4">:</tspan>
-<tspan x="102.0" y="262" fill-opacity="0.6">=</tspan>
-<tspan x="109.8" y="262" fill-opacity="1">%</tspan>
-<tspan x="117.6" y="262" fill-opacity="0.85">+</tspan>
-<tspan x="125.4" y="262" fill-opacity="0.4">:</tspan>
-<tspan x="133.2" y="262" fill-opacity="0.6">--==</tspan>
-<tspan x="164.4" y="262" fill-opacity="0.4">:......</tspan>
-<tspan x="219.0" y="262" fill-opacity="0.6">-</tspan>
-<tspan x="226.8" y="262" fill-opacity="0.4">::..:</tspan>
-<tspan x="265.8" y="262" fill-opacity="0.6">-</tspan>
-<tspan x="273.6" y="262" fill-opacity="0.4">::</tspan>
-<tspan x="289.2" y="262" fill-opacity="0.6">-</tspan>
-<tspan x="297.0" y="262" fill-opacity="0.4">:::::..:</tspan>
-<tspan x="359.4" y="262" fill-opacity="0.6">=</tspan>
-<tspan x="367.2" y="262" fill-opacity="0.4">:.</tspan>
-<tspan x="382.8" y="262" fill-opacity="0.85">+</tspan>
-<tspan x="102.0" y="278" fill-opacity="0.4">:.</tspan>
-<tspan x="117.6" y="278" fill-opacity="0.85">*+</tspan>
-<tspan x="133.2" y="278" fill-opacity="0.6">-</tspan>
-<tspan x="141.0" y="278" fill-opacity="0.4">::.....:..:..::........:..:..:::</tspan>
-<tspan x="102.0" y="294" fill-opacity="0.85">+</tspan>
-<tspan x="109.8" y="294" fill-opacity="0.4">.</tspan>
-<tspan x="117.6" y="294" fill-opacity="0.6">=-</tspan>
-<tspan x="133.2" y="294" fill-opacity="0.4">::</tspan>
-<tspan x="148.8" y="294" fill-opacity="0.6">-</tspan>
-<tspan x="156.6" y="294" fill-opacity="0.4">:::..</tspan>
-<tspan x="195.6" y="294" fill-opacity="0.6">-</tspan>
-<tspan x="203.4" y="294" fill-opacity="0.4">.</tspan>
-<tspan x="211.2" y="294" fill-opacity="0.6">=</tspan>
-<tspan x="219.0" y="294" fill-opacity="1">%</tspan>
-<tspan x="226.8" y="294" fill-opacity="0.85">*</tspan>
-<tspan x="234.6" y="294" fill-opacity="0.4">..</tspan>
-<tspan x="250.2" y="294" fill-opacity="0.6">------</tspan>
-<tspan x="297.0" y="294" fill-opacity="0.4">:::</tspan>
-<tspan x="320.4" y="294" fill-opacity="0.6">-</tspan>
-<tspan x="328.2" y="294" fill-opacity="0.4">::</tspan>
-<tspan x="343.8" y="294" fill-opacity="0.6">=</tspan>
-<tspan x="351.6" y="294" fill-opacity="0.85">+</tspan>
-<tspan x="359.4" y="294" fill-opacity="0.4">.</tspan>
-<tspan x="367.2" y="294" fill-opacity="0.6">--</tspan>
-<tspan x="382.8" y="294" fill-opacity="0.4">:</tspan>
-<tspan x="102.0" y="310" fill-opacity="1">#</tspan>
-<tspan x="109.8" y="310" fill-opacity="0.85">*</tspan>
-<tspan x="117.6" y="310" fill-opacity="0.4">:</tspan>
-<tspan x="125.4" y="310" fill-opacity="0.85">*++</tspan>
-<tspan x="148.8" y="310" fill-opacity="0.6">==---=</tspan>
-<tspan x="195.6" y="310" fill-opacity="0.85">+</tspan>
-<tspan x="203.4" y="310" fill-opacity="0.6">-</tspan>
-<tspan x="211.2" y="310" fill-opacity="1">%%#</tspan>
-<tspan x="234.6" y="310" fill-opacity="0.6">=</tspan>
-<tspan x="242.4" y="310" fill-opacity="0.4">.</tspan>
-<tspan x="250.2" y="310" fill-opacity="0.6">-=</tspan>
-<tspan x="265.8" y="310" fill-opacity="0.85">++++*</tspan>
-<tspan x="304.8" y="310" fill-opacity="1">#</tspan>
-<tspan x="312.6" y="310" fill-opacity="0.85">*+</tspan>
-<tspan x="328.2" y="310" fill-opacity="0.4">.</tspan>
-<tspan x="336.0" y="310" fill-opacity="0.6">=</tspan>
-<tspan x="343.8" y="310" fill-opacity="0.85">++</tspan>
-<tspan x="359.4" y="310" fill-opacity="0.4">:.:</tspan>
-<tspan x="382.8" y="310" fill-opacity="0.6">-</tspan>
-<tspan x="102.0" y="326" fill-opacity="1">#%</tspan>
-<tspan x="117.6" y="326" fill-opacity="0.6">=-</tspan>
-<tspan x="133.2" y="326" fill-opacity="0.85">*</tspan>
-<tspan x="141.0" y="326" fill-opacity="1">###</tspan>
-<tspan x="164.4" y="326" fill-opacity="0.85">**+</tspan>
-<tspan x="187.8" y="326" fill-opacity="0.6">--</tspan>
-<tspan x="203.4" y="326" fill-opacity="1">%%%#</tspan>
-<tspan x="234.6" y="326" fill-opacity="0.85">+</tspan>
-<tspan x="242.4" y="326" fill-opacity="0.6">=</tspan>
-<tspan x="250.2" y="326" fill-opacity="0.4">::</tspan>
-<tspan x="265.8" y="326" fill-opacity="0.6">-====-</tspan>
-<tspan x="312.6" y="326" fill-opacity="0.4">:.</tspan>
-<tspan x="328.2" y="326" fill-opacity="0.6">-</tspan>
-<tspan x="336.0" y="326" fill-opacity="0.85">+++</tspan>
-<tspan x="359.4" y="326" fill-opacity="0.6">-</tspan>
-<tspan x="367.2" y="326" fill-opacity="0.4">..</tspan>
-<tspan x="102.0" y="342" fill-opacity="0.85">*</tspan>
-<tspan x="109.8" y="342" fill-opacity="1">%%#</tspan>
-<tspan x="133.2" y="342" fill-opacity="0.85">+</tspan>
-<tspan x="141.0" y="342" fill-opacity="0.6">====-</tspan>
-<tspan x="180.0" y="342" fill-opacity="0.4">:</tspan>
-<tspan x="187.8" y="342" fill-opacity="0.85">*</tspan>
-<tspan x="195.6" y="342" fill-opacity="1">%%#</tspan>
-<tspan x="219.0" y="342" fill-opacity="0.85">*+</tspan>
-<tspan x="234.6" y="342" fill-opacity="0.6">--</tspan>
-<tspan x="250.2" y="342" fill-opacity="0.85">+*</tspan>
-<tspan x="265.8" y="342" fill-opacity="0.4">.</tspan>
-<tspan x="273.6" y="342" fill-opacity="0.6">-</tspan>
-<tspan x="281.4" y="342" fill-opacity="0.85">*</tspan>
-<tspan x="289.2" y="342" fill-opacity="1">####</tspan>
-<tspan x="320.4" y="342" fill-opacity="0.85">*</tspan>
-<tspan x="328.2" y="342" fill-opacity="0.6">=</tspan>
-<tspan x="336.0" y="342" fill-opacity="0.85">+</tspan>
-<tspan x="343.8" y="342" fill-opacity="0.6">===</tspan>
-<tspan x="367.2" y="342" fill-opacity="0.4">..</tspan>
-<tspan x="102.0" y="358" fill-opacity="0.85">+</tspan>
-<tspan x="109.8" y="358" fill-opacity="1">#%%%%%#</tspan>
-<tspan x="164.4" y="358" fill-opacity="0.6">=</tspan>
-<tspan x="172.2" y="358" fill-opacity="0.4">:</tspan>
-<tspan x="180.0" y="358" fill-opacity="0.85">+</tspan>
-<tspan x="187.8" y="358" fill-opacity="1">#</tspan>
-<tspan x="195.6" y="358" fill-opacity="0.4">:..</tspan>
-<tspan x="219.0" y="358" fill-opacity="0.6">-</tspan>
-<tspan x="226.8" y="358" fill-opacity="0.4">:....:</tspan>
-<tspan x="273.6" y="358" fill-opacity="0.6">--=</tspan>
-<tspan x="297.0" y="358" fill-opacity="0.85">***+</tspan>
-<tspan x="328.2" y="358" fill-opacity="0.6">===---</tspan>
-<tspan x="375.0" y="358" fill-opacity="0.85">+</tspan>
-<tspan x="109.8" y="374" fill-opacity="1">####</tspan>
-<tspan x="141.0" y="374" fill-opacity="0.85">*</tspan>
-<tspan x="148.8" y="374" fill-opacity="0.6">=</tspan>
-<tspan x="156.6" y="374" fill-opacity="0.4">.:</tspan>
-<tspan x="172.2" y="374" fill-opacity="0.6">-=</tspan>
-<tspan x="187.8" y="374" fill-opacity="0.85">+</tspan>
-<tspan x="195.6" y="374" fill-opacity="0.4">:</tspan>
-<tspan x="203.4" y="374" fill-opacity="0.6">--</tspan>
-<tspan x="219.0" y="374" fill-opacity="0.4">:::</tspan>
-<tspan x="242.4" y="374" fill-opacity="0.6">-</tspan>
-<tspan x="250.2" y="374" fill-opacity="0.4">::.:::</tspan>
-<tspan x="297.0" y="374" fill-opacity="0.6">-=</tspan>
-<tspan x="312.6" y="374" fill-opacity="0.85">+</tspan>
-<tspan x="320.4" y="374" fill-opacity="0.6">=---=--</tspan>
-<tspan x="109.8" y="390" fill-opacity="0.85">+*</tspan>
-<tspan x="125.4" y="390" fill-opacity="1">#</tspan>
-<tspan x="133.2" y="390" fill-opacity="0.85">*</tspan>
-<tspan x="141.0" y="390" fill-opacity="1">#</tspan>
-<tspan x="148.8" y="390" fill-opacity="0.85">++</tspan>
-<tspan x="164.4" y="390" fill-opacity="0.6">-</tspan>
-<tspan x="172.2" y="390" fill-opacity="0.4">..:</tspan>
-<tspan x="195.6" y="390" fill-opacity="0.6">=</tspan>
-<tspan x="203.4" y="390" fill-opacity="0.85">++++</tspan>
-<tspan x="234.6" y="390" fill-opacity="0.6">=--</tspan>
-<tspan x="258.0" y="390" fill-opacity="0.4">:::....</tspan>
-<tspan x="312.6" y="390" fill-opacity="0.85">*+</tspan>
-<tspan x="328.2" y="390" fill-opacity="0.6">=-----</tspan>
-<tspan x="109.8" y="406" fill-opacity="0.85">+**+</tspan>
-<tspan x="141.0" y="406" fill-opacity="1">##</tspan>
-<tspan x="156.6" y="406" fill-opacity="0.6">=</tspan>
-<tspan x="164.4" y="406" fill-opacity="0.4">.</tspan>
-<tspan x="172.2" y="406" fill-opacity="0.6">-</tspan>
-<tspan x="180.0" y="406" fill-opacity="0.85">******++++</tspan>
-<tspan x="258.0" y="406" fill-opacity="0.6">=-====</tspan>
-<tspan x="304.8" y="406" fill-opacity="1">#</tspan>
-<tspan x="312.6" y="406" fill-opacity="0.85">+</tspan>
-<tspan x="320.4" y="406" fill-opacity="0.6">=----</tspan>
-<tspan x="117.6" y="422" fill-opacity="0.6">=</tspan>
-<tspan x="125.4" y="422" fill-opacity="0.85">*</tspan>
-<tspan x="133.2" y="422" fill-opacity="1">#</tspan>
-<tspan x="141.0" y="422" fill-opacity="0.85">*</tspan>
-<tspan x="148.8" y="422" fill-opacity="1">##</tspan>
-<tspan x="164.4" y="422" fill-opacity="0.85">*++</tspan>
-<tspan x="187.8" y="422" fill-opacity="1">%%#</tspan>
-<tspan x="211.2" y="422" fill-opacity="0.85">*+</tspan>
-<tspan x="226.8" y="422" fill-opacity="0.6">=---==</tspan>
-<tspan x="273.6" y="422" fill-opacity="0.85">++</tspan>
-<tspan x="289.2" y="422" fill-opacity="0.6">=-</tspan>
-<tspan x="304.8" y="422" fill-opacity="0.4">:</tspan>
-<tspan x="312.6" y="422" fill-opacity="0.6">------</tspan>
-<tspan x="125.4" y="438" fill-opacity="0.85">+****</tspan>
-<tspan x="164.4" y="438" fill-opacity="0.6">-</tspan>
-<tspan x="172.2" y="438" fill-opacity="0.4">:</tspan>
-<tspan x="180.0" y="438" fill-opacity="0.6">==</tspan>
-<tspan x="195.6" y="438" fill-opacity="0.85">++*+</tspan>
-<tspan x="226.8" y="438" fill-opacity="0.6">=---</tspan>
-<tspan x="258.0" y="438" fill-opacity="0.85">+++</tspan>
-<tspan x="281.4" y="438" fill-opacity="0.6">=-</tspan>
-<tspan x="297.0" y="438" fill-opacity="0.4">:::::::</tspan>
-<tspan x="141.0" y="454" fill-opacity="0.6">------</tspan>
-<tspan x="187.8" y="454" fill-opacity="0.4">:</tspan>
-<tspan x="195.6" y="454" fill-opacity="0.6">==</tspan>
-<tspan x="211.2" y="454" fill-opacity="0.85">+*+*</tspan>
-<tspan x="242.4" y="454" fill-opacity="1">#</tspan>
-<tspan x="250.2" y="454" fill-opacity="0.85">**</tspan>
-<tspan x="265.8" y="454" fill-opacity="0.6">=--</tspan>
-<tspan x="289.2" y="454" fill-opacity="0.4">::.:::</tspan>
-<tspan x="148.8" y="470" fill-opacity="0.4">:..</tspan>
-<tspan x="172.2" y="470" fill-opacity="0.6">-----=</tspan>
-<tspan x="219.0" y="470" fill-opacity="0.85">+</tspan>
-<tspan x="226.8" y="470" fill-opacity="0.6">===--</tspan>
-<tspan x="265.8" y="470" fill-opacity="0.4">:::...</tspan>
-<tspan x="180.0" y="486" fill-opacity="0.4">:...:</tspan>
-<tspan x="219.0" y="486" fill-opacity="0.6">--</tspan>
-<tspan x="234.6" y="486" fill-opacity="0.4">:::...</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" width="890" height="512" viewBox="0 0 890 512" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13">
+<rect x=".5" y=".5" width="889" height="511" rx="10" fill="#000b1e" stroke="#133e7c"/>
+<text xml:space="preserve">
+<tspan x="156.6" y="52" fill="#e207d8" fill-opacity="0.6">====-</tspan>
+<tspan x="195.6" y="52" fill="#e207d8" fill-opacity="0.4">::.:::::.:::</tspan>
+<tspan x="289.2" y="52" fill="#e207d8" fill-opacity="0.6">-</tspan>
+<tspan x="125.4" y="68" fill="#da0ed8" fill-opacity="0.4">:::.::::........:...::::</tspan>
+<tspan x="312.6" y="68" fill="#da0ed8" fill-opacity="0.6">-</tspan>
+<tspan x="109.8" y="84" fill="#d214d7" fill-opacity="0.6">=-</tspan>
+<tspan x="125.4" y="84" fill="#d214d7" fill-opacity="0.4">::::.:................:::.:.</tspan>
+<tspan x="343.8" y="84" fill="#d214d7" fill-opacity="0.6">-</tspan>
+<tspan x="102.0" y="100" fill="#ca1bd6" fill-opacity="0.6">-</tspan>
+<tspan x="109.8" y="100" fill="#ca1bd6" fill-opacity="0.4">..:.::::...::...................</tspan>
+<tspan x="359.4" y="100" fill="#ca1bd6" fill-opacity="0.6">-</tspan>
+<tspan x="94.2" y="116" fill="#c222d6" fill-opacity="0.6">-</tspan>
+<tspan x="102.0" y="116" fill="#c222d6" fill-opacity="0.4">:..::....::::::::..:::::..........:</tspan>
+<tspan x="86.4" y="132" fill="#ba28d5" fill-opacity="0.4">:</tspan>
+<tspan x="94.2" y="132" fill="#ba28d5" fill-opacity="0.6">-</tspan>
+<tspan x="102.0" y="132" fill="#ba28d5" fill-opacity="0.4">......:</tspan>
+<tspan x="156.6" y="132" fill="#ba28d5" fill-opacity="0.6">--------</tspan>
+<tspan x="219.0" y="132" fill="#ba28d5" fill-opacity="0.4">:</tspan>
+<tspan x="226.8" y="132" fill="#ba28d5" fill-opacity="0.6">--==</tspan>
+<tspan x="258.0" y="132" fill="#ba28d5" fill-opacity="0.85">+++++</tspan>
+<tspan x="297.0" y="132" fill="#ba28d5" fill-opacity="0.6">=-</tspan>
+<tspan x="312.6" y="132" fill="#ba28d5" fill-opacity="0.4">:........</tspan>
+<tspan x="86.4" y="148" fill="#b22fd4" fill-opacity="0.4">:</tspan>
+<tspan x="94.2" y="148" fill="#b22fd4" fill-opacity="0.6">-</tspan>
+<tspan x="102.0" y="148" fill="#b22fd4" fill-opacity="0.4">....:</tspan>
+<tspan x="141.0" y="148" fill="#b22fd4" fill-opacity="0.85">+*</tspan>
+<tspan x="156.6" y="148" fill="#b22fd4" fill-opacity="0.6">=</tspan>
+<tspan x="164.4" y="148" fill="#b22fd4" fill-opacity="0.85">**+++++**********++</tspan>
+<tspan x="312.6" y="148" fill="#b22fd4" fill-opacity="0.6">==</tspan>
+<tspan x="328.2" y="148" fill="#b22fd4" fill-opacity="0.4">:.......</tspan>
+<tspan x="86.4" y="164" fill="#aa36d4" fill-opacity="0.6">-</tspan>
+<tspan x="94.2" y="164" fill="#aa36d4" fill-opacity="0.4">:..:</tspan>
+<tspan x="125.4" y="164" fill="#aa36d4" fill-opacity="0.85">**</tspan>
+<tspan x="141.0" y="164" fill="#aa36d4" fill-opacity="1">%################</tspan>
+<tspan x="273.6" y="164" fill="#aa36d4" fill-opacity="0.85">***++++</tspan>
+<tspan x="328.2" y="164" fill="#aa36d4" fill-opacity="0.6">=-</tspan>
+<tspan x="343.8" y="164" fill="#aa36d4" fill-opacity="0.4">......</tspan>
+<tspan x="86.4" y="180" fill="#a23dd3" fill-opacity="0.4">::.:</tspan>
+<tspan x="117.6" y="180" fill="#a23dd3" fill-opacity="1">%%%%%%##############</tspan>
+<tspan x="273.6" y="180" fill="#a23dd3" fill-opacity="0.85">***++++</tspan>
+<tspan x="328.2" y="180" fill="#a23dd3" fill-opacity="0.6">==-</tspan>
+<tspan x="351.6" y="180" fill="#a23dd3" fill-opacity="0.4">:...:</tspan>
+<tspan x="86.4" y="196" fill="#9a44d2" fill-opacity="0.6">-</tspan>
+<tspan x="94.2" y="196" fill="#9a44d2" fill-opacity="0.4">..</tspan>
+<tspan x="109.8" y="196" fill="#9a44d2" fill-opacity="1">%%%%%%%%##############</tspan>
+<tspan x="281.4" y="196" fill="#9a44d2" fill-opacity="0.85">**++++</tspan>
+<tspan x="328.2" y="196" fill="#9a44d2" fill-opacity="0.6">===--</tspan>
+<tspan x="367.2" y="196" fill="#9a44d2" fill-opacity="0.4">..</tspan>
+<tspan x="382.8" y="196" fill="#9a44d2" fill-opacity="0.6">-</tspan>
+<tspan x="86.4" y="212" fill="#924ad2" fill-opacity="0.6">-</tspan>
+<tspan x="94.2" y="212" fill="#924ad2" fill-opacity="0.4">.</tspan>
+<tspan x="102.0" y="212" fill="#924ad2" fill-opacity="0.85">+</tspan>
+<tspan x="109.8" y="212" fill="#924ad2" fill-opacity="1">%%%%%%%%%%######%%####</tspan>
+<tspan x="281.4" y="212" fill="#924ad2" fill-opacity="0.85">***+++</tspan>
+<tspan x="328.2" y="212" fill="#924ad2" fill-opacity="0.6">===--</tspan>
+<tspan x="367.2" y="212" fill="#924ad2" fill-opacity="0.4">..</tspan>
+<tspan x="94.2" y="228" fill="#8a51d1" fill-opacity="0.4">.</tspan>
+<tspan x="102.0" y="228" fill="#8a51d1" fill-opacity="0.85">+</tspan>
+<tspan x="109.8" y="228" fill="#8a51d1" fill-opacity="1">#%%%#%%%%%#######</tspan>
+<tspan x="242.4" y="228" fill="#8a51d1" fill-opacity="0.85">****+</tspan>
+<tspan x="281.4" y="228" fill="#8a51d1" fill-opacity="0.6">==-----===-</tspan>
+<tspan x="367.2" y="228" fill="#8a51d1" fill-opacity="0.4">..</tspan>
+<tspan x="94.2" y="244" fill="#8258d0" fill-opacity="0.4">:</tspan>
+<tspan x="102.0" y="244" fill="#8258d0" fill-opacity="0.85">+</tspan>
+<tspan x="109.8" y="244" fill="#8258d0" fill-opacity="1">%##</tspan>
+<tspan x="133.2" y="244" fill="#8258d0" fill-opacity="0.6">=-----===</tspan>
+<tspan x="203.4" y="244" fill="#8258d0" fill-opacity="0.85">+**++</tspan>
+<tspan x="242.4" y="244" fill="#8258d0" fill-opacity="0.6">=-</tspan>
+<tspan x="258.0" y="244" fill="#8258d0" fill-opacity="0.4">...........</tspan>
+<tspan x="343.8" y="244" fill="#8258d0" fill-opacity="0.6">-=</tspan>
+<tspan x="359.4" y="244" fill="#8258d0" fill-opacity="0.85">+</tspan>
+<tspan x="367.2" y="244" fill="#8258d0" fill-opacity="0.4">..</tspan>
+<tspan x="94.2" y="260" fill="#7a5ed0" fill-opacity="0.4">:</tspan>
+<tspan x="102.0" y="260" fill="#7a5ed0" fill-opacity="0.6">=</tspan>
+<tspan x="109.8" y="260" fill="#7a5ed0" fill-opacity="1">%</tspan>
+<tspan x="117.6" y="260" fill="#7a5ed0" fill-opacity="0.85">+</tspan>
+<tspan x="125.4" y="260" fill="#7a5ed0" fill-opacity="0.4">:</tspan>
+<tspan x="133.2" y="260" fill="#7a5ed0" fill-opacity="0.6">--==</tspan>
+<tspan x="164.4" y="260" fill="#7a5ed0" fill-opacity="0.4">:......</tspan>
+<tspan x="219.0" y="260" fill="#7a5ed0" fill-opacity="0.6">-</tspan>
+<tspan x="226.8" y="260" fill="#7a5ed0" fill-opacity="0.4">::..:</tspan>
+<tspan x="265.8" y="260" fill="#7a5ed0" fill-opacity="0.6">-</tspan>
+<tspan x="273.6" y="260" fill="#7a5ed0" fill-opacity="0.4">::</tspan>
+<tspan x="289.2" y="260" fill="#7a5ed0" fill-opacity="0.6">-</tspan>
+<tspan x="297.0" y="260" fill="#7a5ed0" fill-opacity="0.4">:::::..:</tspan>
+<tspan x="359.4" y="260" fill="#7a5ed0" fill-opacity="0.6">=</tspan>
+<tspan x="367.2" y="260" fill="#7a5ed0" fill-opacity="0.4">:.</tspan>
+<tspan x="382.8" y="260" fill="#7a5ed0" fill-opacity="0.85">+</tspan>
+<tspan x="102.0" y="276" fill="#7265cf" fill-opacity="0.4">:.</tspan>
+<tspan x="117.6" y="276" fill="#7265cf" fill-opacity="0.85">*+</tspan>
+<tspan x="133.2" y="276" fill="#7265cf" fill-opacity="0.6">-</tspan>
+<tspan x="141.0" y="276" fill="#7265cf" fill-opacity="0.4">::.....:..:..::........:..:..:::</tspan>
+<tspan x="102.0" y="292" fill="#6a6cce" fill-opacity="0.85">+</tspan>
+<tspan x="109.8" y="292" fill="#6a6cce" fill-opacity="0.4">.</tspan>
+<tspan x="117.6" y="292" fill="#6a6cce" fill-opacity="0.6">=-</tspan>
+<tspan x="133.2" y="292" fill="#6a6cce" fill-opacity="0.4">::</tspan>
+<tspan x="148.8" y="292" fill="#6a6cce" fill-opacity="0.6">-</tspan>
+<tspan x="156.6" y="292" fill="#6a6cce" fill-opacity="0.4">:::..</tspan>
+<tspan x="195.6" y="292" fill="#6a6cce" fill-opacity="0.6">-</tspan>
+<tspan x="203.4" y="292" fill="#6a6cce" fill-opacity="0.4">.</tspan>
+<tspan x="211.2" y="292" fill="#6a6cce" fill-opacity="0.6">=</tspan>
+<tspan x="219.0" y="292" fill="#6a6cce" fill-opacity="1">%</tspan>
+<tspan x="226.8" y="292" fill="#6a6cce" fill-opacity="0.85">*</tspan>
+<tspan x="234.6" y="292" fill="#6a6cce" fill-opacity="0.4">..</tspan>
+<tspan x="250.2" y="292" fill="#6a6cce" fill-opacity="0.6">------</tspan>
+<tspan x="297.0" y="292" fill="#6a6cce" fill-opacity="0.4">:::</tspan>
+<tspan x="320.4" y="292" fill="#6a6cce" fill-opacity="0.6">-</tspan>
+<tspan x="328.2" y="292" fill="#6a6cce" fill-opacity="0.4">::</tspan>
+<tspan x="343.8" y="292" fill="#6a6cce" fill-opacity="0.6">=</tspan>
+<tspan x="351.6" y="292" fill="#6a6cce" fill-opacity="0.85">+</tspan>
+<tspan x="359.4" y="292" fill="#6a6cce" fill-opacity="0.4">.</tspan>
+<tspan x="367.2" y="292" fill="#6a6cce" fill-opacity="0.6">--</tspan>
+<tspan x="382.8" y="292" fill="#6a6cce" fill-opacity="0.4">:</tspan>
+<tspan x="102.0" y="308" fill="#6273cd" fill-opacity="1">#</tspan>
+<tspan x="109.8" y="308" fill="#6273cd" fill-opacity="0.85">*</tspan>
+<tspan x="117.6" y="308" fill="#6273cd" fill-opacity="0.4">:</tspan>
+<tspan x="125.4" y="308" fill="#6273cd" fill-opacity="0.85">*++</tspan>
+<tspan x="148.8" y="308" fill="#6273cd" fill-opacity="0.6">==---=</tspan>
+<tspan x="195.6" y="308" fill="#6273cd" fill-opacity="0.85">+</tspan>
+<tspan x="203.4" y="308" fill="#6273cd" fill-opacity="0.6">-</tspan>
+<tspan x="211.2" y="308" fill="#6273cd" fill-opacity="1">%%#</tspan>
+<tspan x="234.6" y="308" fill="#6273cd" fill-opacity="0.6">=</tspan>
+<tspan x="242.4" y="308" fill="#6273cd" fill-opacity="0.4">.</tspan>
+<tspan x="250.2" y="308" fill="#6273cd" fill-opacity="0.6">-=</tspan>
+<tspan x="265.8" y="308" fill="#6273cd" fill-opacity="0.85">++++*</tspan>
+<tspan x="304.8" y="308" fill="#6273cd" fill-opacity="1">#</tspan>
+<tspan x="312.6" y="308" fill="#6273cd" fill-opacity="0.85">*+</tspan>
+<tspan x="328.2" y="308" fill="#6273cd" fill-opacity="0.4">.</tspan>
+<tspan x="336.0" y="308" fill="#6273cd" fill-opacity="0.6">=</tspan>
+<tspan x="343.8" y="308" fill="#6273cd" fill-opacity="0.85">++</tspan>
+<tspan x="359.4" y="308" fill="#6273cd" fill-opacity="0.4">:.:</tspan>
+<tspan x="382.8" y="308" fill="#6273cd" fill-opacity="0.6">-</tspan>
+<tspan x="102.0" y="324" fill="#5a7acd" fill-opacity="1">#%</tspan>
+<tspan x="117.6" y="324" fill="#5a7acd" fill-opacity="0.6">=-</tspan>
+<tspan x="133.2" y="324" fill="#5a7acd" fill-opacity="0.85">*</tspan>
+<tspan x="141.0" y="324" fill="#5a7acd" fill-opacity="1">###</tspan>
+<tspan x="164.4" y="324" fill="#5a7acd" fill-opacity="0.85">**+</tspan>
+<tspan x="187.8" y="324" fill="#5a7acd" fill-opacity="0.6">--</tspan>
+<tspan x="203.4" y="324" fill="#5a7acd" fill-opacity="1">%%%#</tspan>
+<tspan x="234.6" y="324" fill="#5a7acd" fill-opacity="0.85">+</tspan>
+<tspan x="242.4" y="324" fill="#5a7acd" fill-opacity="0.6">=</tspan>
+<tspan x="250.2" y="324" fill="#5a7acd" fill-opacity="0.4">::</tspan>
+<tspan x="265.8" y="324" fill="#5a7acd" fill-opacity="0.6">-====-</tspan>
+<tspan x="312.6" y="324" fill="#5a7acd" fill-opacity="0.4">:.</tspan>
+<tspan x="328.2" y="324" fill="#5a7acd" fill-opacity="0.6">-</tspan>
+<tspan x="336.0" y="324" fill="#5a7acd" fill-opacity="0.85">+++</tspan>
+<tspan x="359.4" y="324" fill="#5a7acd" fill-opacity="0.6">-</tspan>
+<tspan x="367.2" y="324" fill="#5a7acd" fill-opacity="0.4">..</tspan>
+<tspan x="102.0" y="340" fill="#5280cc" fill-opacity="0.85">*</tspan>
+<tspan x="109.8" y="340" fill="#5280cc" fill-opacity="1">%%#</tspan>
+<tspan x="133.2" y="340" fill="#5280cc" fill-opacity="0.85">+</tspan>
+<tspan x="141.0" y="340" fill="#5280cc" fill-opacity="0.6">====-</tspan>
+<tspan x="180.0" y="340" fill="#5280cc" fill-opacity="0.4">:</tspan>
+<tspan x="187.8" y="340" fill="#5280cc" fill-opacity="0.85">*</tspan>
+<tspan x="195.6" y="340" fill="#5280cc" fill-opacity="1">%%#</tspan>
+<tspan x="219.0" y="340" fill="#5280cc" fill-opacity="0.85">*+</tspan>
+<tspan x="234.6" y="340" fill="#5280cc" fill-opacity="0.6">--</tspan>
+<tspan x="250.2" y="340" fill="#5280cc" fill-opacity="0.85">+*</tspan>
+<tspan x="265.8" y="340" fill="#5280cc" fill-opacity="0.4">.</tspan>
+<tspan x="273.6" y="340" fill="#5280cc" fill-opacity="0.6">-</tspan>
+<tspan x="281.4" y="340" fill="#5280cc" fill-opacity="0.85">*</tspan>
+<tspan x="289.2" y="340" fill="#5280cc" fill-opacity="1">####</tspan>
+<tspan x="320.4" y="340" fill="#5280cc" fill-opacity="0.85">*</tspan>
+<tspan x="328.2" y="340" fill="#5280cc" fill-opacity="0.6">=</tspan>
+<tspan x="336.0" y="340" fill="#5280cc" fill-opacity="0.85">+</tspan>
+<tspan x="343.8" y="340" fill="#5280cc" fill-opacity="0.6">===</tspan>
+<tspan x="367.2" y="340" fill="#5280cc" fill-opacity="0.4">..</tspan>
+<tspan x="102.0" y="356" fill="#4a87cb" fill-opacity="0.85">+</tspan>
+<tspan x="109.8" y="356" fill="#4a87cb" fill-opacity="1">#%%%%%#</tspan>
+<tspan x="164.4" y="356" fill="#4a87cb" fill-opacity="0.6">=</tspan>
+<tspan x="172.2" y="356" fill="#4a87cb" fill-opacity="0.4">:</tspan>
+<tspan x="180.0" y="356" fill="#4a87cb" fill-opacity="0.85">+</tspan>
+<tspan x="187.8" y="356" fill="#4a87cb" fill-opacity="1">#</tspan>
+<tspan x="195.6" y="356" fill="#4a87cb" fill-opacity="0.4">:..</tspan>
+<tspan x="219.0" y="356" fill="#4a87cb" fill-opacity="0.6">-</tspan>
+<tspan x="226.8" y="356" fill="#4a87cb" fill-opacity="0.4">:....:</tspan>
+<tspan x="273.6" y="356" fill="#4a87cb" fill-opacity="0.6">--=</tspan>
+<tspan x="297.0" y="356" fill="#4a87cb" fill-opacity="0.85">***+</tspan>
+<tspan x="328.2" y="356" fill="#4a87cb" fill-opacity="0.6">===---</tspan>
+<tspan x="375.0" y="356" fill="#4a87cb" fill-opacity="0.85">+</tspan>
+<tspan x="109.8" y="372" fill="#428ecb" fill-opacity="1">####</tspan>
+<tspan x="141.0" y="372" fill="#428ecb" fill-opacity="0.85">*</tspan>
+<tspan x="148.8" y="372" fill="#428ecb" fill-opacity="0.6">=</tspan>
+<tspan x="156.6" y="372" fill="#428ecb" fill-opacity="0.4">.:</tspan>
+<tspan x="172.2" y="372" fill="#428ecb" fill-opacity="0.6">-=</tspan>
+<tspan x="187.8" y="372" fill="#428ecb" fill-opacity="0.85">+</tspan>
+<tspan x="195.6" y="372" fill="#428ecb" fill-opacity="0.4">:</tspan>
+<tspan x="203.4" y="372" fill="#428ecb" fill-opacity="0.6">--</tspan>
+<tspan x="219.0" y="372" fill="#428ecb" fill-opacity="0.4">:::</tspan>
+<tspan x="242.4" y="372" fill="#428ecb" fill-opacity="0.6">-</tspan>
+<tspan x="250.2" y="372" fill="#428ecb" fill-opacity="0.4">::.:::</tspan>
+<tspan x="297.0" y="372" fill="#428ecb" fill-opacity="0.6">-=</tspan>
+<tspan x="312.6" y="372" fill="#428ecb" fill-opacity="0.85">+</tspan>
+<tspan x="320.4" y="372" fill="#428ecb" fill-opacity="0.6">=---=--</tspan>
+<tspan x="109.8" y="388" fill="#3a94ca" fill-opacity="0.85">+*</tspan>
+<tspan x="125.4" y="388" fill="#3a94ca" fill-opacity="1">#</tspan>
+<tspan x="133.2" y="388" fill="#3a94ca" fill-opacity="0.85">*</tspan>
+<tspan x="141.0" y="388" fill="#3a94ca" fill-opacity="1">#</tspan>
+<tspan x="148.8" y="388" fill="#3a94ca" fill-opacity="0.85">++</tspan>
+<tspan x="164.4" y="388" fill="#3a94ca" fill-opacity="0.6">-</tspan>
+<tspan x="172.2" y="388" fill="#3a94ca" fill-opacity="0.4">..:</tspan>
+<tspan x="195.6" y="388" fill="#3a94ca" fill-opacity="0.6">=</tspan>
+<tspan x="203.4" y="388" fill="#3a94ca" fill-opacity="0.85">++++</tspan>
+<tspan x="234.6" y="388" fill="#3a94ca" fill-opacity="0.6">=--</tspan>
+<tspan x="258.0" y="388" fill="#3a94ca" fill-opacity="0.4">:::....</tspan>
+<tspan x="312.6" y="388" fill="#3a94ca" fill-opacity="0.85">*+</tspan>
+<tspan x="328.2" y="388" fill="#3a94ca" fill-opacity="0.6">=-----</tspan>
+<tspan x="109.8" y="404" fill="#329bc9" fill-opacity="0.85">+**+</tspan>
+<tspan x="141.0" y="404" fill="#329bc9" fill-opacity="1">##</tspan>
+<tspan x="156.6" y="404" fill="#329bc9" fill-opacity="0.6">=</tspan>
+<tspan x="164.4" y="404" fill="#329bc9" fill-opacity="0.4">.</tspan>
+<tspan x="172.2" y="404" fill="#329bc9" fill-opacity="0.6">-</tspan>
+<tspan x="180.0" y="404" fill="#329bc9" fill-opacity="0.85">******++++</tspan>
+<tspan x="258.0" y="404" fill="#329bc9" fill-opacity="0.6">=-====</tspan>
+<tspan x="304.8" y="404" fill="#329bc9" fill-opacity="1">#</tspan>
+<tspan x="312.6" y="404" fill="#329bc9" fill-opacity="0.85">+</tspan>
+<tspan x="320.4" y="404" fill="#329bc9" fill-opacity="0.6">=----</tspan>
+<tspan x="117.6" y="420" fill="#2aa2c9" fill-opacity="0.6">=</tspan>
+<tspan x="125.4" y="420" fill="#2aa2c9" fill-opacity="0.85">*</tspan>
+<tspan x="133.2" y="420" fill="#2aa2c9" fill-opacity="1">#</tspan>
+<tspan x="141.0" y="420" fill="#2aa2c9" fill-opacity="0.85">*</tspan>
+<tspan x="148.8" y="420" fill="#2aa2c9" fill-opacity="1">##</tspan>
+<tspan x="164.4" y="420" fill="#2aa2c9" fill-opacity="0.85">*++</tspan>
+<tspan x="187.8" y="420" fill="#2aa2c9" fill-opacity="1">%%#</tspan>
+<tspan x="211.2" y="420" fill="#2aa2c9" fill-opacity="0.85">*+</tspan>
+<tspan x="226.8" y="420" fill="#2aa2c9" fill-opacity="0.6">=---==</tspan>
+<tspan x="273.6" y="420" fill="#2aa2c9" fill-opacity="0.85">++</tspan>
+<tspan x="289.2" y="420" fill="#2aa2c9" fill-opacity="0.6">=-</tspan>
+<tspan x="304.8" y="420" fill="#2aa2c9" fill-opacity="0.4">:</tspan>
+<tspan x="312.6" y="420" fill="#2aa2c9" fill-opacity="0.6">------</tspan>
+<tspan x="125.4" y="436" fill="#22a9c8" fill-opacity="0.85">+****</tspan>
+<tspan x="164.4" y="436" fill="#22a9c8" fill-opacity="0.6">-</tspan>
+<tspan x="172.2" y="436" fill="#22a9c8" fill-opacity="0.4">:</tspan>
+<tspan x="180.0" y="436" fill="#22a9c8" fill-opacity="0.6">==</tspan>
+<tspan x="195.6" y="436" fill="#22a9c8" fill-opacity="0.85">++*+</tspan>
+<tspan x="226.8" y="436" fill="#22a9c8" fill-opacity="0.6">=---</tspan>
+<tspan x="258.0" y="436" fill="#22a9c8" fill-opacity="0.85">+++</tspan>
+<tspan x="281.4" y="436" fill="#22a9c8" fill-opacity="0.6">=-</tspan>
+<tspan x="297.0" y="436" fill="#22a9c8" fill-opacity="0.4">:::::::</tspan>
+<tspan x="141.0" y="452" fill="#1ab0c7" fill-opacity="0.6">------</tspan>
+<tspan x="187.8" y="452" fill="#1ab0c7" fill-opacity="0.4">:</tspan>
+<tspan x="195.6" y="452" fill="#1ab0c7" fill-opacity="0.6">==</tspan>
+<tspan x="211.2" y="452" fill="#1ab0c7" fill-opacity="0.85">+*+*</tspan>
+<tspan x="242.4" y="452" fill="#1ab0c7" fill-opacity="1">#</tspan>
+<tspan x="250.2" y="452" fill="#1ab0c7" fill-opacity="0.85">**</tspan>
+<tspan x="265.8" y="452" fill="#1ab0c7" fill-opacity="0.6">=--</tspan>
+<tspan x="289.2" y="452" fill="#1ab0c7" fill-opacity="0.4">::.:::</tspan>
+<tspan x="148.8" y="468" fill="#12b6c7" fill-opacity="0.4">:..</tspan>
+<tspan x="172.2" y="468" fill="#12b6c7" fill-opacity="0.6">-----=</tspan>
+<tspan x="219.0" y="468" fill="#12b6c7" fill-opacity="0.85">+</tspan>
+<tspan x="226.8" y="468" fill="#12b6c7" fill-opacity="0.6">===--</tspan>
+<tspan x="265.8" y="468" fill="#12b6c7" fill-opacity="0.4">:::...</tspan>
+<tspan x="180.0" y="484" fill="#0abdc6" fill-opacity="0.4">:...:</tspan>
+<tspan x="219.0" y="484" fill="#0abdc6" fill-opacity="0.6">--</tspan>
+<tspan x="234.6" y="484" fill="#0abdc6" fill-opacity="0.4">:::...</tspan>
 </text>
-<text x="421.8" y="84.0" font-weight="700"><tspan fill="#0abdc6">ziyam</tspan><tspan fill="#d7d7d5">@</tspan><tspan fill="#0abdc6">github</tspan></text>
-<text x="421.8" y="116.0" xml:space="preserve"><tspan fill="#ea00d9" font-weight="700">OS     </tspan><tspan fill="#d7d7d5">EndeavourOS x86_64 · KDE Plasma · Wayland</tspan></text>
-<text x="421.8" y="132.0" xml:space="preserve"><tspan fill="#0abdc6" font-weight="700">HOST   </tspan><tspan fill="#d7d7d5">Parul University, Vadodara, India</tspan></text>
-<text x="421.8" y="148.0" xml:space="preserve"><tspan fill="#ea00d9" font-weight="700">KER    </tspan><tspan fill="#d7d7d5">Assistant Professor, Information Technology</tspan></text>
-<text x="421.8" y="164.0" xml:space="preserve"><tspan fill="#0abdc6" font-weight="700">UP     </tspan><tspan fill="#d7d7d5">teaching since July 2024</tspan></text>
-<text x="421.8" y="180.0" xml:space="preserve"><tspan fill="#ea00d9" font-weight="700">SHL    </tspan><tspan fill="#d7d7d5">bash · Neovim (AstroNvim) · Git</tspan></text>
-<text x="421.8" y="196.0" xml:space="preserve"><tspan fill="#0abdc6" font-weight="700">TRM    </tspan><tspan fill="#d7d7d5">Konsole · JetBrains Mono · CyberpunkNeon</tspan></text>
-<text x="421.8" y="228.0" xml:space="preserve"><tspan fill="#ea00d9" font-weight="700">RES    </tspan><tspan fill="#d7d7d5">federated learning when an adversary</tspan></text>
-<text x="421.8" y="244.0" xml:space="preserve"><tspan fill="#ea00d9" font-weight="700">       </tspan><tspan fill="#d7d7d5">decides who goes missing</tspan></text>
-<text x="421.8" y="260.0" xml:space="preserve"><tspan fill="#0abdc6" font-weight="700">PAP    </tspan><tspan fill="#d7d7d5">2 published · 1 accepted · 2 in progress</tspan></text>
-<text x="421.8" y="276.0" xml:space="preserve"><tspan fill="#ea00d9" font-weight="700">LANG   </tspan><tspan fill="#d7d7d5">Python · TypeScript · Rust · C/C++ · SQL · GLSL</tspan></text>
-<text x="421.8" y="292.0" xml:space="preserve"><tspan fill="#0abdc6" font-weight="700">BUILD  </tspan><tspan fill="#d7d7d5">runets · Dept Ops · fieldbook · Trailblazer</tspan></text>
-<text x="421.8" y="308.0" xml:space="preserve"><tspan fill="#ea00d9" font-weight="700">GIT    </tspan><tspan fill="#d7d7d5">9 public repos · 1,735 contributions this year</tspan></text>
-<text x="421.8" y="340.0" xml:space="preserve"><tspan fill="#0abdc6" font-weight="700">WEB    </tspan><tspan fill="#d7d7d5">ziyamkhan.com</tspan></text>
-<text x="421.8" y="356.0" xml:space="preserve"><tspan fill="#ea00d9" font-weight="700">MAIL   </tspan><tspan fill="#d7d7d5">ziyamkhan39@gmail.com</tspan></text>
-<text x="421.8" y="372.0" xml:space="preserve"><tspan fill="#0abdc6" font-weight="700">X      </tspan><tspan fill="#d7d7d5">@zimeckus</tspan></text>
-<text x="421.8" y="388.0" xml:space="preserve"><tspan fill="#ea00d9" font-weight="700">IN     </tspan><tspan fill="#d7d7d5">linkedin.com/in/ziyam-khan</tspan></text>
-<text x="421.8" y="404.0" xml:space="preserve"><tspan fill="#0abdc6" font-weight="700">ORCID  </tspan><tspan fill="#d7d7d5">0009-0000-1943-8481</tspan></text>
-<circle cx="429.6" cy="432.0" r="4.5" fill="#133e7c"/>
-<circle cx="445.2" cy="432.0" r="4.5" fill="#ff0000"/>
-<circle cx="460.8" cy="432.0" r="4.5" fill="#ea00d9"/>
-<circle cx="476.4" cy="432.0" r="4.5" fill="#f57800"/>
-<circle cx="492.0" cy="432.0" r="4.5" fill="#133e7c"/>
-<circle cx="507.6" cy="432.0" r="4.5" fill="#711c91"/>
-<circle cx="523.2" cy="432.0" r="4.5" fill="#0abdc6"/>
-<circle cx="538.8" cy="432.0" r="4.5" fill="#d7d7d5"/>
+<text x="414.0" y="36" xml:space="preserve"><tspan fill="#ff4fd8">ziyam</tspan><tspan fill="#d7d7d5">@</tspan><tspan fill="#3ee6f0">github</tspan><tspan fill="#2f4f86"> ---------------------------------------------</tspan></text>
+<text x="414.0" y="52" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">Name</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ....................................... </tspan><tspan fill="#3ee6f0">Ziyam Khan</tspan></text>
+<text x="414.0" y="68" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">Role</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> .......................... </tspan><tspan fill="#3ee6f0">Assistant Professor, IT</tspan></text>
+<text x="414.0" y="84" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">Host</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ................................. </tspan><tspan fill="#3ee6f0">Parul University</tspan></text>
+<text x="414.0" y="100" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">Location</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> .............................. </tspan><tspan fill="#3ee6f0">Vadodara, India</tspan></text>
+<text x="414.0" y="116" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">Uptime</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ..................... </tspan><tspan fill="#3ee6f0">2 years, 4 months teaching</tspan></text>
+<text x="414.0" y="132" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">OS</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ............................ </tspan><tspan fill="#3ee6f0">EndeavourOS, KDE Plasma</tspan></text>
+<text x="414.0" y="148" xml:space="preserve"><tspan fill="#2f4f86">.</tspan></text>
+<text x="414.0" y="164" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">Languages</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ............. </tspan><tspan fill="#3ee6f0">Python, TypeScript, Rust, C/C++</tspan></text>
+<text x="414.0" y="180" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">IDE</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ................................ </tspan><tspan fill="#3ee6f0">Neovim (AstroNvim)</tspan></text>
+<text x="414.0" y="196" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">Terminal</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ....................... </tspan><tspan fill="#3ee6f0">Konsole, CyberpunkNeon</tspan></text>
+<text x="414.0" y="212" xml:space="preserve"><tspan fill="#2f4f86">.</tspan></text>
+<text x="414.0" y="228" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">Research</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ............... </tspan><tspan fill="#3ee6f0">Adversarial federated learning</tspan></text>
+<text x="414.0" y="244" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">Papers</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ......... </tspan><tspan fill="#3ee6f0">2 published, 1 accepted, 2 in progress</tspan></text>
+<text x="414.0" y="260" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">Building</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> .................. </tspan><tspan fill="#3ee6f0">runets, Dept Ops, fieldbook</tspan></text>
+<text x="414.0" y="276" xml:space="preserve"><tspan fill="#2f4f86">.</tspan></text>
+<text x="414.0" y="292" xml:space="preserve"><tspan fill="#2f4f86">- </tspan><tspan fill="#ff9e3d">Contact</tspan><tspan fill="#2f4f86"> ------------------------------------------------</tspan></text>
+<text x="414.0" y="308" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">Email</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ........................... </tspan><tspan fill="#3ee6f0">ziyamkhan39@gmail.com</tspan></text>
+<text x="414.0" y="324" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">Website</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ................................. </tspan><tspan fill="#3ee6f0">ziyamkhan.com</tspan></text>
+<text x="414.0" y="340" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">X</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ........................................... </tspan><tspan fill="#3ee6f0">@zimeckus</tspan></text>
+<text x="414.0" y="356" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">LinkedIn</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ................................ </tspan><tspan fill="#3ee6f0">in/ziyam-khan</tspan></text>
+<text x="414.0" y="372" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">ORCID</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ............................. </tspan><tspan fill="#3ee6f0">0009-0000-1943-8481</tspan></text>
+<text x="414.0" y="388" xml:space="preserve"><tspan fill="#2f4f86">.</tspan></text>
+<text x="414.0" y="404" xml:space="preserve"><tspan fill="#2f4f86">- </tspan><tspan fill="#ff9e3d">GitHub Stats</tspan><tspan fill="#2f4f86"> -------------------------------------------</tspan></text>
+<text x="414.0" y="420" xml:space="preserve"><tspan fill="#2f4f86">. </tspan><tspan fill="#ff4fd8">Repos</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ................ </tspan><tspan fill="#3ee6f0">9</tspan><tspan fill="#2f4f86"> | </tspan><tspan fill="#ff4fd8">Contributions</tspan><tspan fill="#2f4f86">:</tspan><tspan fill="#2f4f86"> ....... </tspan><tspan fill="#3ee6f0">1,735</tspan></text>
+<text x="414.0" y="436" xml:space="preserve"><tspan fill="#2f4f86">.</tspan></text>
+<circle cx="421.8" cy="448" r="4.5" fill="#133e7c"/>
+<circle cx="437.4" cy="448" r="4.5" fill="#ff0000"/>
+<circle cx="453.0" cy="448" r="4.5" fill="#ea00d9"/>
+<circle cx="468.6" cy="448" r="4.5" fill="#f57800"/>
+<circle cx="484.2" cy="448" r="4.5" fill="#3ee6f0"/>
+<circle cx="499.8" cy="448" r="4.5" fill="#711c91"/>
+<circle cx="515.4" cy="448" r="4.5" fill="#0abdc6"/>
+<circle cx="531.0" cy="448" r="4.5" fill="#d7d7d5"/>
 </svg>
