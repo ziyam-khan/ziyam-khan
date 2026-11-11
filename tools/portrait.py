@@ -3,6 +3,7 @@ below the chin, and turn it into ASCII.
 
 Needs OpenCV (pip install opencv-python-headless numpy, in a venv). The photo itself stays out of this repo.
     python tools/portrait.py pfp.jpeg > portrait.txt
+The committed portrait.txt has hand edits on top of this output; rerunning the tool replaces them.
 The rectangles are in the photo's own pixels and fit the current photo; move them for another one.
 """
 import sys, cv2, numpy as np
