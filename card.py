@@ -58,7 +58,7 @@ THEMES = {
 }
 FONT, SIZE, LINE, CHAR = "'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace", 13, 16, 7.8
 PAD, GAP, KEYW = 24, 4, 7
-ART_SIZE, ART_LINE, ART_CHAR = 9, 10, 5.4   # the portrait in smaller characters than the readout, for detail
+ART_SIZE, ART_LINE, ART_CHAR = SIZE, LINE, CHAR   # the portrait in the readout's own character size
 RAMP, TONES = ['.:', '-=', '+*', '#%@'], [0.4, 0.6, 0.85, 1]   # portrait characters by density, and their opacity
 
 def svg(theme, art, readout):
