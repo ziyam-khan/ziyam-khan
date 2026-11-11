@@ -1,10 +1,9 @@
 """Make portrait.txt from a photo: cut the person out (GrabCut), crop head and shoulders, drop the neck and collar
-below the chin, give each eye its own contrast with the iris darkened into an almond, and turn it into ASCII.
+below the chin, and turn it into ASCII.
 
 Needs OpenCV (pip install opencv-python-headless numpy, in a venv). The photo itself stays out of this repo.
     python tools/portrait.py pfp.jpeg > portrait.txt
-The rectangles are in the photo's own pixels and fit the current photo; the eye centres came from OpenCV's YuNet
-face detector. Move them for another photo.
+The rectangles are in the photo's own pixels and fit the current photo; move them for another one.
 """
 import sys, cv2, numpy as np
 
@@ -12,7 +11,6 @@ PERSON = (500, 740, 1400, None)                       # GrabCut's search box (No
 SURE_PERSON = [(820, 840, 1000, 1080), (700, 1250, 1250, None)]                                  # face, jacket
 SURE_SCENE = [(640, 760, 782, 1075), (1036, 760, 1360, 1050), (1270, 1050, 1400, 1300), (500, 1150, 560, 1600)]
 CROP, COLS, RAMP = (745, 755, 1085, 1150), 56, ' .:-=+*#%@'
-EYES = [(854, 940), (951, 934)]
 JAW, CHIN = (1030, (905, 985), (112, 118)), 1102      # below JAW[0] only the jaw ellipse stays; nothing below CHIN
 
 def cut(img):
@@ -40,23 +38,13 @@ def ascii_art(img, mask):
     lo, hi = np.percentile(gray[m > 127], [2, 98])                  # stretch the person's own range, not the scene's
     eq = cv2.createCLAHE(clipLimit=1.6, tileGridSize=(3, 3)).apply((np.clip((gray - lo) / (hi - lo), 0, 1) ** 1.15 * 255).astype(np.uint8))
     edges = cv2.Canny(cv2.GaussianBlur(gray, (5, 5), 0), 40, 110)
-    eq, lens, iris = eq.astype(float) / 255, np.zeros(gray.shape, np.float32), np.zeros(gray.shape, np.float32)
-    for ex, ey in EYES:                               # each lens: its own stretch, brighter mids, no edge carving
-        cv2.ellipse(lens, (ex - x0, ey - y0), (40, 26), 0, 0, 360, 1, -1)
-        box = (slice(ey - y0 - 26, ey - y0 + 26), slice(ex - x0 - 40, ex - x0 + 40))
-        roi = gray[box].astype(float); a, b = np.percentile(roi, [3, 85])
-        eq[box] = np.where(lens[box] > 0, np.clip((roi - a) / (b - a), 0, 1) ** 0.6, eq[box])
-        cv2.ellipse(iris, (ex - x0, ey - y0 + 4), (17, 6), 0, 0, 360, 0.45, -1)   # the opening, darkest at the iris
-        cv2.ellipse(iris, (ex - x0, ey - y0 + 4), (8, 6), 0, 0, 360, 0.8, -1)
-    eq = np.rint(eq * (1 - cv2.GaussianBlur(iris, (0, 0), 1.5)) * 255).astype(np.uint8)
-    lens = cv2.GaussianBlur(lens, (0, 0), 3)
     cell = lambda a: cv2.resize(a, (COLS, rows), interpolation=cv2.INTER_AREA).astype(float) / 255
-    lum, edge, cov, inside = cell(eq), cell(edges), cell(drawn), cell((lens * 255).astype(np.uint8))   # tones from the whole cut-out; cells only above the chin
+    lum, edge, cov = cell(eq), cell(edges), cell(drawn)   # tones from the whole cut-out; cells only above the chin
     out = []
     for r in range(rows):
         line = ''
         for c in range(COLS):
-            v = min(1, 0.05 + 0.95 * lum[r, c] - 0.6 * edge[r, c] * (1 - inside[r, c]))  # edges carve dark lines, the way a pencil would
+            v = min(1, 0.05 + 0.95 * lum[r, c] - 0.6 * edge[r, c])  # edges carve dark lines, the way a pencil would
             line += ' ' if cov[r, c] < 0.45 else RAMP[max(1, min(len(RAMP) - 1, int(v * (len(RAMP) - 1))))]
         out.append(line.rstrip())
     while out and not out[-1]: out.pop()
