@@ -1,0 +1,4 @@
+pfp.*
+*.jpeg
+*.jpg
+__pycache__/

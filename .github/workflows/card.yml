@@ -1,0 +1,23 @@
+name: card
+on:
+  schedule:
+    - cron: '30 3 * * *'   # daily, 09:00 in India
+  workflow_dispatch:
+  push:
+    paths: ['card.py', 'portrait.txt']
+permissions:
+  contents: write
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 card.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit the card if it changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add stats.json dark.svg light.svg
+          git diff --cached --quiet || { git commit -m "Refresh the card's GitHub numbers"; git push; }
