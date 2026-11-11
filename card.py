@@ -58,31 +58,32 @@ THEMES = {
 }
 FONT, SIZE, LINE, CHAR = "'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace", 13, 16, 7.8
 PAD, GAP, KEYW = 24, 4, 7
+ART_SIZE, ART_LINE, ART_CHAR = 9, 10, 5.4   # the portrait in smaller characters than the readout, for detail
 RAMP, TONES = ['.:', '-=', '+*', '#%@'], [0.4, 0.6, 0.85, 1]   # portrait characters by density, and their opacity
 
 def svg(theme, art, readout):
     t = THEMES[theme]
     artw = max(map(len, art))
-    x0 = PAD + (artw + GAP) * CHAR
-    rows = max(len(art), len(readout))
+    x0 = PAD + artw * ART_CHAR + GAP * CHAR
+    arth, texth = len(art) * ART_LINE, len(readout) * LINE
     widest = max(KEYW + len(item[1]) if isinstance(item, tuple) else 16 for item in readout)
-    w, h = round(x0 + widest * CHAR + PAD), PAD * 2 + rows * LINE
+    w, h = round(x0 + widest * CHAR + PAD), PAD * 2 + max(arth, texth)
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" font-family="{FONT}" font-size="{SIZE}">',
            f'<rect x=".5" y=".5" width="{w - 1}" height="{h - 1}" rx="10" fill="{t["bg"]}" stroke="{t["line"]}"/>',
-           f'<text fill="{t["art"]}" xml:space="preserve">']
+           f'<text fill="{t["art"]}" font-size="{ART_SIZE}" xml:space="preserve">']
     for k, row in enumerate(art):
-        y, x, runs = PAD + (k + 1) * LINE - 4, PAD, []
+        y, x, runs = PAD + max(0, texth - arth) / 2 + (k + 1) * ART_LINE - 2, PAD, []
         for ch in row:   # runs of one tone: sparse characters dim, dense ones full, so the face has depth
             tone = TONES[next(i for i, s in enumerate(RAMP) if ch in s)] if ch != ' ' else None
             if runs and runs[-1][0] == tone: runs[-1][1] += ch
             else: runs.append([tone, ch])
         for tone, text in runs:
-            if tone is not None: out.append(f'<tspan x="{x:.1f}" y="{y}" fill-opacity="{tone}">{html.escape(text)}</tspan>')
-            x += len(text) * CHAR
+            if tone is not None: out.append(f'<tspan x="{x:.1f}" y="{y:.0f}" fill-opacity="{tone}">{html.escape(text)}</tspan>')
+            x += len(text) * ART_CHAR
     out.append('</text>')
-    n, off = 0, max(0, (len(art) - len(readout)) // 2)   # the readout sits level with the middle of the portrait
+    n, top = 0, PAD + max(0, arth - texth) / 2   # the readout sits level with the middle of the portrait
     for k, item in enumerate(readout):
-        y = PAD + (k + 1 + off) * LINE - 4
+        y = top + (k + 1) * LINE - 4
         if item == 'colors':
             out += [f'<circle cx="{x0 + CHAR + i * 2 * CHAR:.1f}" cy="{y - 4}" r="4.5" fill="{c}"/>' for i, c in enumerate(t['dots'])]
         elif isinstance(item, tuple):
